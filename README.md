@@ -26,12 +26,12 @@
 
 ### 5.Owner can NOT set multiplier higher than 10
  
-### 6. require(multiplierNumber <= 10, 'multipler too high');
+ require(multiplierNumber <= 10, 'multipler too high');
 
-### 7.Owner can NOT set emission rate higher than the initial yugi per block
+### 6.Owner can NOT set emission rate higher than the initial yugi per block
  require(_yugiPerBlock <= 1000000000000000000, 'must be smaller than the initial emission rate');
 
-### 8.ReentrancyGuard for deposit(), withdraw(), emergencyWithdraw()
+### 7.ReentrancyGuard for deposit(), withdraw(), emergencyWithdraw()
 
 
 ## YUGI TOKEN
