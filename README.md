@@ -49,10 +49,6 @@ https://bscscan.com/token/0xA727Bba71e8cfEdbA3c8c53D5E50c297beB88d29
 
 https://bscscan.com/token/0xAA5AeB33D7a346fB9E561C5E182D52F9Ac0aa33B
 
-## DRAGON TOKEN
-
-https://bscscan.com/token/0x0d42dF10a117aA2025c6D4954838eC800a180420
-
 ## YUGI FARM
 
 https://bscscan.com/address/0xc9d6FA14aCc9ad8c7Af96e7d61f594FD03e3c699
